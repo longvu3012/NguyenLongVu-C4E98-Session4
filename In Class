@@ -1,0 +1,58 @@
+// const movies = [
+//     {
+//         title : 'The dark night',
+//         rate : 8.5,
+//         genre : 'Action',
+//     },
+//     {
+//         title : 'Me before you',
+//         rate : 8,
+//         genre : 'Romance',
+//     },
+//     {
+//         title : 'Attack of titans',
+//         rate : 8.4,
+//         genre : 'Anime',
+//     },
+//     {
+//         title : 'Terminator',
+//         rate : 8.2,
+//         genre : 'Action',
+//     },
+//     {
+//         title : 'The diary',
+//         rate : 8,
+//         genre : 'Romance',
+//     },
+// ];
+
+// const moviesByGroup = {
+//     "Action" : [],
+//     "Romance": [],
+//     "Anime" : [],
+// }
+
+// for( let i= 0; i< movies.length; i++){
+//     const movie = movies[i];
+//     console.log(movie);
+//     const genre = movie.genre;
+//     console.log(genre);
+//     if(genre == 'Action'){
+//         moviesByGroup['Action'].push(movie);
+//     }
+// }
+// const movieByGroup
+// 1: Tu the loai suy ra danh sach phim
+// genre => property
+// danh sahc phim value
+
+
+// let a =0;
+// let b = 1;
+// let number = Math.random() * (b- a)+a;
+// number = number.toFixed(2);
+// console.log(number);
+
+let number = [2, 5, 7, 9, 10];
+var rand = number[Math.floor(Math.random()*number.length)];
+console.log(rand);
