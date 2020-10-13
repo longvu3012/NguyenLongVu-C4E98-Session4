@@ -1,0 +1,32 @@
+Check-point
+Session 5: Lab
+
+1.Learn how to create a random number from 0 to 1(Done)
+For example:
+First run: 0.67
+Second run: 0.03
+
+2.Learn how to randomly pick an item from an array(Done)
+For example:
+Array: [2, 5, 6, 9, 10]
+First run: 5
+Second run: 9
+
+3. Design a question answering application
+-	Firstly, draft your application (how many functions, how it works, your application's flow,...)
+-	Give task for each member
+-	Do it and merger code
+
+Example: 
+Function:
+-	Say hello!
+-	Show question
+-	Check answer (show anwer)
+-	Random question
+Extension function
+-	Score
+-	Life
+-	Support player
+-	User Information
+-	…..
+
